@@ -1,0 +1,7 @@
+Cookie::1.75::10
+Water::1.00::10
+Sprite::3.25::10
+Coke::3.00::10
+Gatorade::2.50::10
+Chips::2.50::10
+Coffee::1.50::10
